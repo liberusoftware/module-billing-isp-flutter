@@ -1,0 +1,15 @@
+{
+  "repository": "module-billing-isp-flutter",
+  "capabilityKey": "liberusoftware/module-billing-isp",
+  "presentation": "mobile-flutter",
+  "package": "module_billing_isp_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/billing/nextjs/isp.md",
+  "presentationPlan": "projects/billing/flutter/isp.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "billing"
+  ]
+}
